@@ -59,7 +59,9 @@ X_test = sc.transform(X_test)
 ```
 
 ```python
-
+from sklearn.svm import SVC
+classifier = SVC(kernel = 'rbf', random_state = 0)
+classifier.fit(X_train, y_train)
 ```
 
 ### Predicting a new result
@@ -82,7 +84,7 @@ print(cm)
 accuracy_score(y_test, y_pred)
 ```
 
-+ [See code in terminal, click to view](https://colab.research.google.com/drive/1bqJiqPrbSOFaNNIODRy3RcEiKD1iD0me#scrollTo=ObI5OUqIJvEn)
++ [See code in terminal, click to view](https://colab.research.google.com/drive/1LypxD9fmsHC-fSUN2xr6j120oElbCbQQ#scrollTo=e0pFVAmciHQs)
 
 ## Quesions on SVM
 [Click to view Question](https://ibb.co/g79QnGB)
