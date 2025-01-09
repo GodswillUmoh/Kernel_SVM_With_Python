@@ -87,9 +87,11 @@ accuracy_score(y_test, y_pred)
 + [See code in terminal, click to view](https://colab.research.google.com/drive/1LypxD9fmsHC-fSUN2xr6j120oElbCbQQ#scrollTo=e0pFVAmciHQs)
 
 ## Quesions on SVM
-[Click to view Question](https://ibb.co/g79QnGB)
+[Click to view Question](https://ibb.co/bJGzRVd)
 
 ### Answers
-+ [See Answer One](https://ibb.co/D4MvSjD)
-+ [See Answer Two](https://ibb.co/5Kzf972)
-+ [See Answer Three](https://ibb.co/RSDcjYN)
++ [See Answer One](https://ibb.co/Qvh9m2q)
++ [See Answer Two](https://ibb.co/bHCZW6H)
++ [See Answer Three](https://ibb.co/hB0xfLq)
++ [See Answer Two](https://ibb.co/nc4dgYS)
++ [See Answer Three](https://ibb.co/X8L1Lq9)
